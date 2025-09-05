@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola! I'm Nishaad</h1>
 <div align="center">
-  <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="height: 250px;"/>
+  <img src="https://i.redd.it/70kxbgclienf1.jpeg" alt="pfp" style="height: 250px;"/>
 </div>
 
 <h3 align="center">Fullstack Developer | Consequently Melancholic | Debugging Life</h3>
