@@ -32,14 +32,27 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23FF6F00.svg?style=for-the-badge&logo=swagger&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/mongoose-%23aa0000.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
+![Prisma](https://img.shields.io/badge/prisma-%233068b7.svg?style=for-the-badge&logo=prisma&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![WebSockets](https://img.shields.io/badge/WebSockets-%23f6df0f.svg?style=for-the-badge&logo=websocket&logoColor=000000) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-# 📊 GitHub Stats:
+# 🛠 Developer Tools:
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white) 
+![Vim](https://img.shields.io/badge/Vim-%23141914.svg?style=for-the-badge&logo=vim&logoColor=green) 
+
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
