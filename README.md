@@ -1,5 +1,5 @@
 
-![MasterHead](https://preview.redd.it/serene-autumn-bonsai-tree-by-moonlit-lake-japanese-art-ai-v0-11dyhflr27if1.jpeg?width=1080&crop=smart&auto=webp&s=b803d7584a000b7e28a4d473f51f84b9a2f4aa46)
+![MasterHead](https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd)
 
 <h1 align="center">Hola! I'm Nishaad</h1>
 <div align="center">
