@@ -1,5 +1,5 @@
 
-![MasterHead](https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd)
+![MasterHead](https://i.imgur.com/4R47qJV.jpeg)
 
 <h1 align="center">Hola! I'm Nishaad</h1>
 <div align="center">
@@ -59,7 +59,7 @@
 
 <!--
 **NishaadDhabale/NishaadDhabale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
