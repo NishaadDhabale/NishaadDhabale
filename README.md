@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.imgur.com/4R47qJV.jpeg)
+![MasterHead](https://preview.redd.it/ominous-edge-by-masterteacher-3840x2160-v0-tj3mgmbo8qlf1.png?width=1080&crop=smart&auto=webp&s=f61d84950c2583caabf9ec65f1a334483b09a489)
 
 <h1 align="center">Hola! I'm Nishaad</h1>
 <div align="center">
