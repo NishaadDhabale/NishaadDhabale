@@ -1,5 +1,5 @@
 
-![MasterHead](https://preview.redd.it/ominous-edge-by-masterteacher-3840x2160-v0-tj3mgmbo8qlf1.png?width=1080&crop=smart&auto=webp&s=f61d84950c2583caabf9ec65f1a334483b09a489)
+![MasterHead](https://preview.redd.it/serene-autumn-bonsai-tree-by-moonlit-lake-japanese-art-ai-v0-11dyhflr27if1.jpeg?width=1080&crop=smart&auto=webp&s=b803d7584a000b7e28a4d473f51f84b9a2f4aa46)
 
 <h1 align="center">Hola! I'm Nishaad</h1>
 <div align="center">
