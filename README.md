@@ -12,7 +12,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     Nishaad Dhabale | Solipsistic / Melancholic | Web Developer<br><br>
-    🌱 I’m currently learning Devops, TypeScript, and Advanced React<br>
+    🌱 I’m currently learning Devops, Rust, and Advanced Next<br>
     📫 How to reach me: <a href="mailto:nishaad.d.official@gmail.com">nishaad.d.official@gmail.com</a> , +91 9075482813 <br>
     ⚡ Resume: <a href="https://drive.google.com/file/d/1LjC1VABL1t5vYaExj0GOYzpSo-Kk1_9j/view?usp=sharing">Resume</a><br>
   </div>
